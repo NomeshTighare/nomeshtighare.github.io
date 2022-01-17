@@ -25,7 +25,7 @@ function App() {
      <Route  exact path="/" component={About}/>
      <Route  exact path="/home" component={Home }/>
      <Route  exact path="/education" component={Education}/>
-     <Route  exact path="/experience" component={Experience}/>
+     <Route  exact path="/about" component={Experience}/>
    </Switch>
    <Footer theme={chosenTheme}/>
    {/* <TopButton theme={chosenTheme}/> */}

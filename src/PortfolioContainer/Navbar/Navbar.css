@@ -54,7 +54,8 @@
     line-height: normal;
   }
   .header .title {
-    font-family: "Agustina";
+    font-family: 'Agustina';
+    src: url('../../assets/fonts/Agustina.ttf');
     font-weight: bolder;
     padding: 0 10px;
     /* color: #55198b; */

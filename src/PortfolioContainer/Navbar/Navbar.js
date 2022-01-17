@@ -61,7 +61,7 @@ const Navbar = (props) => {
                         onMouseOut={(event) => onMouseOut(event)}
                         >Education</NavLink>
                         </li>
-                        <li><NavLink to='/experience' 
+                        <li><NavLink to='/about' 
                         style={{ color: props.theme.text }} 
                         className="mr-2"
                         onMouseEnter={(event) => onMouseEnter(event, props.theme.highlight)}
