@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e87becad.css",
+    "main.css": "/static/css/main.6b2fb51e.css",
     "main.js": "/static/js/main.b6a93c48.js",
     "static/js/787.86e70ff7.chunk.js": "/static/js/787.86e70ff7.chunk.js",
     "static/media/utility-apps.gif": "/static/media/utility-apps.a6481b462f3a98fdaedc.gif",
@@ -20,7 +20,9 @@
     "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
     "static/media/mobileapp.gif": "/static/media/mobileapp.2984c07fbf35059d02e5.gif",
     "static/media/app-development.gif": "/static/media/app-development.4eccfe9bb81301e2b9c2.gif",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/computer.png": "/static/media/computer.64bcb986530e584d3013.png",
+    "static/media/lucida calligraphy italic.ttf": "/static/media/lucida calligraphy italic.1efdaad6788d343abf0d.ttf",
     "static/media/artboard.png": "/static/media/artboard.46e67ef550da9744865c.png",
     "static/media/Procohat.png": "/static/media/Procohat.5ea4902bb9772bd93e9a.png",
     "static/media/web.png": "/static/media/web.fc57b4b0593ff39994b0.png",
@@ -38,12 +40,12 @@
     "static/media/certificate_re.svg": "/static/media/certificate_re.9f8c26853349112b981acb8f8d46dd74.svg",
     "index.html": "/index.html",
     "static/media/blob.svg": "/static/media/blob.e63e86180e78fba2cebc.svg",
-    "main.e87becad.css.map": "/static/css/main.e87becad.css.map",
+    "main.6b2fb51e.css.map": "/static/css/main.6b2fb51e.css.map",
     "main.b6a93c48.js.map": "/static/js/main.b6a93c48.js.map",
     "787.86e70ff7.chunk.js.map": "/static/js/787.86e70ff7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e87becad.css",
+    "static/css/main.6b2fb51e.css",
     "static/js/main.b6a93c48.js"
   ]
 }
