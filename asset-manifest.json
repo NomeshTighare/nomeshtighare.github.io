@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0d81210.css",
+    "main.css": "/static/css/main.5b7810d7.css",
     "main.js": "/static/js/main.9d58e12e.js",
     "static/js/787.86e70ff7.chunk.js": "/static/js/787.86e70ff7.chunk.js",
     "static/media/utility-apps.gif": "/static/media/utility-apps.a6481b462f3a98fdaedc.gif",
@@ -23,7 +23,6 @@
     "static/media/computer.png": "/static/media/computer.64bcb986530e584d3013.png",
     "static/media/artboard.png": "/static/media/artboard.46e67ef550da9744865c.png",
     "static/media/Procohat.png": "/static/media/Procohat.5ea4902bb9772bd93e9a.png",
-    "static/media/Agustina.ttf": "/static/media/Agustina.2e8e9877acd28dafcd87.ttf",
     "static/media/web.png": "/static/media/web.fc57b4b0593ff39994b0.png",
     "static/media/office_work.svg": "/static/media/office_work.e7fd0478451b8d72ff9b93b1ea475b66.svg",
     "static/media/hero.svg": "/static/media/hero.6532165a7de488337e7e.svg",
@@ -39,12 +38,12 @@
     "static/media/certificate_re.svg": "/static/media/certificate_re.9f8c26853349112b981acb8f8d46dd74.svg",
     "index.html": "/index.html",
     "static/media/blob.svg": "/static/media/blob.e63e86180e78fba2cebc.svg",
-    "main.a0d81210.css.map": "/static/css/main.a0d81210.css.map",
+    "main.5b7810d7.css.map": "/static/css/main.5b7810d7.css.map",
     "main.9d58e12e.js.map": "/static/js/main.9d58e12e.js.map",
     "787.86e70ff7.chunk.js.map": "/static/js/787.86e70ff7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0d81210.css",
+    "static/css/main.5b7810d7.css",
     "static/js/main.9d58e12e.js"
   ]
 }
